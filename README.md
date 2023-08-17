@@ -1,70 +1,20 @@
-# Getting Started with Create React App
+<h1 align="left">thinking with you</h1>
+ <p align="left">
+  <img src="https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green">
+</p>
+<h2>Propuesta</h2>
+<p>La empresa Thinking With You quiere transmitir sus valores a la sociedad de una manera moderna y actual. La idea es emular el Libro blanco de Thinking With You con experiencias inmersivaec, nesitan también un formulario de contacto y zona de administración para actualizar la información de la presentación.
+<ul>
+  <li>El usuario deber ser capaz de:</li>
+  <li>Desplazarse por la experiencia inmersiva</li>
+  <li>Interactuar con la experiencia inmersiva </li>
+</ul>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<h2>Equipo</h2>
+<a href="https://github.com/chiaravigi" class="position-relative"><img src="https://avatars.githubusercontent.com/u/126780221?v=4" data-hovercard-type="achievement" width="64" alt="chiaravigi" data-view-component="true" class="achievement-badge-sidebar"></a>
+<a href="https://github.com/fran-eliot" class="position-relative"><img src="https://avatars.githubusercontent.com/u/5796681?v=4" data-hovercard-type="achievement" width="64" alt="Fran Ramírez" data-view-component="true" class="achievement-badge-sidebar"></a>
+<a href="https://github.com/NacylaM" class="position-relative"><img src="https://avatars.githubusercontent.com/u/126783136?v=4" data-hovercard-type="achievement" width="64" alt="NacylaM" data-view-component="true" class="achievement-badge-sidebar"></a>
+<a href="https://github.com/YELEGA27"><img src="https://avatars.githubusercontent.com/u/127417496?v=4" data-hovercard-type="achievement" width="64" alt="Yeny Garcia" data-view-component="true" class="achievement-badge-sidebar"></a>
+<a href="https://github.com/gabifauk"><img src="https://avatars.githubusercontent.com/u/126780440?v=4" data-hovercard-type="achievement" width="64" alt="gabifauk" data-view-component="true" class="achievement-badge-sidebar"></a>
+<a href="https://github.com/juancmacias"><img src="https://avatars.githubusercontent.com/u/53483587?v=4" data-hovercard-type="achievement" width="64" alt="Juan Carlos Macías" data-view-component="true" class="achievement-badge-sidebar"></a>
 
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
