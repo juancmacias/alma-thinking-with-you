@@ -1,8 +1,8 @@
 function Inicial() {
     return (
-          <p>
-           
-          </p>        
+          <div className="presentacion">
+
+          </div>       
     );
   }
   

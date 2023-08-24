@@ -16,7 +16,10 @@ button{
   height: 40vmin;
   pointer-events: none;
 }
-
+.entrar{
+  padding: 35px;
+  font-size: 2em;
+}
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
@@ -82,3 +85,9 @@ img{
     color: rgb(60, 59, 59);
   }
 }
+
+.presentacion
+  {
+    background: linear-gradient(blue, pink);
+  }
+

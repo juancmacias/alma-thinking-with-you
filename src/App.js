@@ -17,7 +17,7 @@ function App() {
       <header className="App-header">
         <div className='header'>
           <div className='name'>
-            Cinquito
+              Thinking 
           </div>
           <div className='botons'>
             <button type="button"
@@ -38,7 +38,8 @@ function App() {
         </div>
         </header>
         <main>
-        <button onClick={() => seleccionar('frame')}  className='visible'>Entrar</button>
+            <Inicial/>
+            <button onClick={() => seleccionar('frame')}  className='entrar'>Entrar</button>
         </main>
         <footer>
         <p>Sobre nosotros</p>
